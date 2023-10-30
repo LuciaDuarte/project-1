@@ -1,5 +1,5 @@
 console.log('Hi, there! 👋');
 
-for (let index = 0; index < 3; index++) {
-  console.log(index);
+for (let i = 0; i < 3; i++) {
+  console.log(`This is iteration number ${i}`);
 }
