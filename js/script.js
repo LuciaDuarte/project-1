@@ -1,5 +1,5 @@
-console.log('Hi, there! 👋');
+console.log('Hello, there! 👋');
 
-for (let index = 0; index < 3; index++) {
+for (let index = 0; index < 10; index++) {
   console.log(index);
 }
